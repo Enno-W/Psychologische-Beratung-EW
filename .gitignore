@@ -1,0 +1,9 @@
+# Ignoriere alle Dateien
+*
+
+# Schließe .gitignore von der Ignorierung aus
+!.gitignore
+
+# Erlaube nur .jpg und .png Dateien
+!*.jpg
+!*.png
