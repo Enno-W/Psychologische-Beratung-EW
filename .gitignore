@@ -7,3 +7,7 @@
 # Erlaube nur .jpg und .png Dateien
 !*.jpg
 !*.png
+/.quarto/
+.Rproj.user
+
+/Rechnungen
